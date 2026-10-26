@@ -66,10 +66,6 @@ QLS-MiCM_Introduction_to_supervised_machine_learning-main/
         └── 06_hackathon_template.ipynb
 ```
 
-## Collab notebooks
-
-Will make this week.
-
 ## Installation and Setup
 ### 1. Clone or Download
 ```bash
