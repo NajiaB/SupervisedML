@@ -8,7 +8,8 @@ paginate: true
 
 ### QLS–MiCM Workshop
 
-**Instructor:** James Randolph
+**Instructor:** Najia Bouaddouch
+**Facilitator:** Seyla Wickramasinghe
 **Section:** Introduction 
 
 ---
