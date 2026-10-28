@@ -108,7 +108,7 @@ or
 jupyter notebook
 ```
 
-Then open the notebooks in `Exercises/notebooks/`.
+Then open the notebooks in `Exercises/workbooks/`.
 
 ### 6. To generate slides:
 Must have a browser and marp installed.
